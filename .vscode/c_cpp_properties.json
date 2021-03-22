@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "EquinoxEditor Editor Win64 Development (Equinox)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

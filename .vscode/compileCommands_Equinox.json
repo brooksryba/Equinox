@@ -1,0 +1,57 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\Equinox.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\Equinox.cpp",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\Equinox.h",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\EquinoxCharacter.cpp",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\EquinoxCharacter.h",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\EquinoxGameMode.cpp",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\EquinoxGameMode.h",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\EquinoxHUD.cpp",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\EquinoxHUD.h",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\EquinoxProjectile.cpp",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Brooks\\\\Code\\\\Equinox\\\\Source\\\\Equinox\\\\EquinoxProjectile.h",
+		"command": "cl.exe @\"C:\\Users\\Brooks\\Code\\Equinox\\.vscode\\compileCommands_Equinox\\Equinox.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
